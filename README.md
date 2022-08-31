@@ -1,6 +1,9 @@
 # frt-project : Future Ready Talent project by Sameer Basha
 # Foodie Blog Website
 This is my final frt-project
+I have created a Foodie Blog website. It is deployed using Microsoft Azure Static WebApp resource.
+In this I made three pages Home , About and Contact pages.
+It helps people to find healthy , tasty food along with description according to their lifestyle at reasonable prices.
 #azure link https://mango-cliff-00041bb10.1.azurestaticapps.net/
 This website is deployed in Microsoft Azure static WebApp resource.
 This project is protfolio blog about different foods
