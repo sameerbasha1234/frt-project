@@ -2,10 +2,10 @@
 # Foodie Blog Website
 This is my final frt-project
 I have created a Foodie Blog website. It is deployed using Microsoft Azure Static WebApp resource.
-In this I made three pages Home , About and Contact pages.
-It helps people to find healthy , tasty food along with description according to their lifestyle at reasonable prices.
+In this I made three pages Home , About , Contact and personal assistance pages.
+It helps people to find healthy , tasty food along with description according to their lifestyle at reasonable prices and a personal health assistance.
 #azure link https://mango-cliff-00041bb10.1.azurestaticapps.net/
-This website is deployed in Microsoft Azure static WebApp resource.
+This website is deployed in Microsoft Azure static WebApp resource and azure health bot.
 This project is protfolio blog about different foods
 Project Demo Video Domain link
 https://drive.google.com/file/d/1TC_P8rbR-xRfev2qOCwL860ARiJiwWCT/view?usp=share_link
@@ -17,3 +17,5 @@ https://drive.google.com/file/d/1TC_P8rbR-xRfev2qOCwL860ARiJiwWCT/view?usp=share
 <img width="960" alt="frt3" src="https://user-images.githubusercontent.com/72596196/187663720-cfa76c7f-f04b-4f32-adf4-353052efd768.png">
 # Azure Portal Deployment
 <img width="959" alt="frt4" src="https://user-images.githubusercontent.com/72596196/187665336-85af7ea1-5743-4ec6-af52-071e152a329b.png">
+# Personal Assistance(Health Bot) page
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72596196/210089803-4160a371-7c1f-4ef1-a4ff-576872e58fa5.png">
