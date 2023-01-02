@@ -1,4 +1,4 @@
-# frt-project : Future Ready Talent project by Sameer Basha
+#Exposys project by Sameer Basha
 # Foodie Blog Website
 This is my final frt-project
 I have created a Foodie Blog website. It is deployed using Microsoft Azure Static WebApp resource and Azure Health Bot.
